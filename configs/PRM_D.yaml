@@ -1,0 +1,5 @@
+desc: PRM_Direct_LlamaInstruct
+data_path: "/storage/wangzijun/data/prm800k/prm800k/data/scored-test-samples.jsonl"
+model_name: "/data/Llama-3.1-Nemotron-70B-Instruct-HF"
+batch_size: 1
+output_path: "output"
